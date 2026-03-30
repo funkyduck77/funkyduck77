@@ -33,8 +33,8 @@ Also planting the first seeds for **Python** and **Java**. Still deciding if my 
 ### 📊 My Coding Stats (The Ecosystem)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/?username=funkyduck77&hide_border=true&title_color=f39c12&icon_color=f39c12&text_color=ffffff&bg_color=1a1a1a" alt="My Stats" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=funkyduck77&layout=compact&hide_border=true&title_color=f39c12&icon_color=f39c12&text_color=ffffff&bg_color=1a1a1a" alt="My Stats" />
+  <img height="180em" width="400em" src="https://github-readme-stats-fast.vercel.app/api/?username=funkyduck77&hide_border=true&title_color=f39c12&icon_color=f39c12&text_color=ffffff&bg_color=1a1a1a" alt="My Stats" /><br />
+  <img height="180em" width="400em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=funkyduck77&layout=compact&hide_border=true&title_color=f39c12&icon_color=f39c12&text_color=ffffff&bg_color=1a1a1a" alt="My Stats" />
 </p>
 
 > **Note:** These stats reflect the languages I've been cultivating lately.
